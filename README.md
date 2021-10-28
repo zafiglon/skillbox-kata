@@ -1,1 +1,1 @@
-# skillbox-kata
+# skillbox-katas
